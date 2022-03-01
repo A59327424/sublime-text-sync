@@ -1,0 +1,11 @@
+[
+  {
+    "keys": ["command+option+t"],
+    "command": "terminus_open",
+    "args":
+    {
+      "config_name": "Default",
+      "cwd": "${file_path:${folder}}"
+    }
+  }
+]
