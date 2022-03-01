@@ -1,0 +1,20 @@
+# Ignore root files and dirs
+/*
+# These files can change on an hourly basis https://packagecontrol.io/docs/syncing
+Package Control.last-run
+Package Control.ca-list
+Package Control.ca-bundle
+Package Control.system-ca-bundle
+Package Control.cache/
+Package Control.ca-certs
+Package Control.merged-ca-bundle
+# Other 
+oscrypto-ca-bundle.crt
+
+# Sensitive data
+Gist.sublime-settings
+
+# Exeptions
+!.gitignore
+!/User/
+!README.md
