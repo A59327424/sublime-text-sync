@@ -1,7 +1,7 @@
 # Ignore root files and dirs
 .DS_Store
 /*
- */
+User/AutoFoldCode.sublime-settings
 # These files can change on an hourly basis https://packagecontrol.io/docs/syncing
 Package Control.last-run
 Package Control.ca-list
